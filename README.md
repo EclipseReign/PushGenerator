@@ -4,6 +4,7 @@ run_pipiline - для разработки и qa
 
 Запуск:
 pip install -r requirements.txt
+
 streamlit run app.py
 
 Онлайн-доступ:
