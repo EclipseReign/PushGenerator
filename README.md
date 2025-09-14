@@ -1,2 +1,3 @@
 # PushGenerator
-for Hackaton
+
+streamlit run app.py
